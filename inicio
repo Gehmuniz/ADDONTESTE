@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR deepskyblue]°FILMES[/COLOR]</name>
+<name>[COLOR deepskyblue]FILMES[/COLOR]</name>
 <thumbnail>https://ia801500.us.archive.org/18/items/animes_20190928/FILMES.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Gehmuniz/ADDONTESTE/master/Filmes</externallink>
 <fanart>https://ia601508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
 <info>
 
@@ -16,8 +16,8 @@
 <channels>
 <channel>
 <name>[COLOR deepskyblue]SÉRIES[/COLOR]</name>
-<thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/SERIES.png</thumbnail>
-<externallink>https://</externallink>
+<thumbnail>https://ia601500.us.archive.org/18/items/animes_20190928/SERIES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gehmuniz/ADDONTESTE/master/Series</externallink>
 <fanart>https://ia601508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
 <info>
 
@@ -31,9 +31,9 @@
 <channels>
 <channel>
 <name>[COLOR deepskyblue]ANIMES[/COLOR]</name>
-<thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/KIDS.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
+<thumbnail>https://ia801500.us.archive.org/18/items/animes_20190928/ANIMES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gehmuniz/ADDONTESTE/master/Animes</externallink>
+<fanart>https://ia801508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
 <info>
 
 
