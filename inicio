@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR deepskyblue]FILMES[/COLOR]</name>
-<thumbnail>https://ia801500.us.archive.org/18/items/animes_20190928/FILMES.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia601508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/FILMES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
+<fanart>https://ia801404.us.archive.org/12/items/fanart_20190909/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deepskyblue]|[/COLOR]- FILMES -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR deepskyblue]SÉRIES[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/SERIES.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia601508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/SERIESCATEGORIAS</externallink>
+<fanart>https://ia801404.us.archive.org/12/items/fanart_20190909/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deepskyblue]|[/COLOR]- SÉRIES -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,14 @@
 
 <channels>
 <channel>
-<name>[COLOR deepskyblue]ANIMES[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/KIDS.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia601508.us.archive.org/17/items/fanart_20190928/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com</externallink>
+<fanart>https://ia801404.us.archive.org/12/items/fanart_20190909/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deepskyblue]|[/COLOR]- ANIMES -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
